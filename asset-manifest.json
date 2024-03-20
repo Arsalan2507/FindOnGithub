@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FindOnGithub/static/css/main.7f10855a.chunk.css",
+    "main.js": "/FindOnGithub/static/js/main.182e966b.chunk.js",
+    "main.js.map": "/FindOnGithub/static/js/main.182e966b.chunk.js.map",
+    "runtime-main.js": "/FindOnGithub/static/js/runtime-main.461d8eb0.js",
+    "runtime-main.js.map": "/FindOnGithub/static/js/runtime-main.461d8eb0.js.map",
+    "static/js/2.a7820f49.chunk.js": "/FindOnGithub/static/js/2.a7820f49.chunk.js",
+    "static/js/2.a7820f49.chunk.js.map": "/FindOnGithub/static/js/2.a7820f49.chunk.js.map",
+    "index.html": "/FindOnGithub/index.html",
+    "static/css/main.7f10855a.chunk.css.map": "/FindOnGithub/static/css/main.7f10855a.chunk.css.map",
+    "static/js/2.a7820f49.chunk.js.LICENSE.txt": "/FindOnGithub/static/js/2.a7820f49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.461d8eb0.js",
+    "static/js/2.a7820f49.chunk.js",
+    "static/css/main.7f10855a.chunk.css",
+    "static/js/main.182e966b.chunk.js"
+  ]
+}
